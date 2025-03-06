@@ -36,6 +36,7 @@ git log # si bcp de logs on sort du terminal avec q
 
 # Recuperer un projet distant
 ## De github sur votre ordi
+aller sur [Github](https://github.com) copier l'url du https et ensuite taper la commande git clone + l'url
 ```bash
 git clone url
 # ex: git clone https://github.com/salamatagoulo/exemple.git
